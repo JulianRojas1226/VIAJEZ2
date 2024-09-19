@@ -21,6 +21,9 @@ header nav{
     background-color: #E5E5CB;
     border-color: #1A120B;
     border-style: solid;
+    position: fixed;
+    top: 0;
+    z-index: 13;
 }
 
 header ul a{
